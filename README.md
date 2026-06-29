@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📧 Spam Email Classifier
 
 A Machine Learning web application that detects whether an SMS or Email is Spam or Not Spam.
@@ -46,3 +47,7 @@ spamclassifier/
 ## Author
 
 Aruna Sanda
+=======
+# Spam-Email-Classifier
+Machine Learning project to classify spam emails using Naive Bayes and Streamlit
+>>>>>>> 7811530e2bfd35840780ac68c6b0a698b1748b52
